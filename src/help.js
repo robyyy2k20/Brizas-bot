@@ -1,6 +1,6 @@
 const help = (prefix) => {
-	return `💎 Comandos do BrizasBot 💎  
-🔰 Principais Comandos 🔰 
+	return `💎 Comandos bot do robyy 💎  
+🐊 Principais Comandos 🐊 
 
 Comando: '${prefix}sticker' ou '${prefix}stiker'
 Função: converter imagem / gif / vídeo em adesivo
@@ -17,7 +17,7 @@ Como Usar: responder a sticker
 Comando:'${prefix}criador'
 Função: Mostra as informações do criador do bot
 
-🔰 Comandos de Memes 🔰  
+🐊 Comandos de Memes 🐊  
 
 Comando: '${prefix}meme'
 Função: imagens aleatórias de meme [english]
@@ -25,7 +25,7 @@ Função: imagens aleatórias de meme [english]
 Comando: '${prefix}memeindo'
 Função: imagens aleatórias de meme [indo]
 
-🔰 Comandos +18 🔰
+🐊 Comandos +18 🐊
 
 Comando: '${prefix}loli'
 Função: imagens aleatórias de loli
@@ -67,7 +67,7 @@ Função: Enviar um pacote de links +18
 Como Usar: Basta enviar o comando
 
 
-🔰 Comandos de texto 🔰 
+🐊 Comandos de texto 🐊 
 
 Comando: '${prefix}frase'
 Função: Envia uma frase filosofica
@@ -124,7 +124,7 @@ Comando:'${prefix}dropwater'
 Função: converte o texto em imagem com estilo dropwater
 Como Usar:'${prefix}dropwater [pt1]'
 
-🔰 Outros Comandos 🔰 
+🐊 Outros Comandos 🐊 
 
 Comando: '${prefix}gtts'
 Função: converter texto em fala / áudio
@@ -166,7 +166,7 @@ Função: substituir prefixo
 Como Usar: '${prefix}setprefix [text|optional]' 
 Exemplo: '${prefix}setprefix ?'
 
-🔰 Comandos de Grupos 🔰 
+🐊 Comandos de Grupos 🐊 
 
 Comandos: '${prefix}termux'
 Função: Mostra uma lista de comandos básicos do termux
@@ -191,9 +191,9 @@ Função: ative o modo simi no grupo
 Como Usar: '${prefix}simih 1' para ativar o modo simih e '${prefix}simih 0' para desativar o modo simih
 Obs: Este comando pode ser usado se você for um administrador do grupo 
 
-🔰 Como instalar o bot?? 🔰 
+🐊 criador 🐊 
 
-https://fir3.net/ELR5uKC
+wa.me/+5598985150059
 
 🔰 Apoie o criador do bot a adicionar comandos novos 🥺 🔰
 
